@@ -20,6 +20,7 @@ Background research on opening an independent **specialty coffee shop in Miami, 
 | 8 | [08-risks.md](08-risks.md) | Biggest risks, ranked, with ways to reduce them | All agents, especially risk/finance |
 | — | [expert-roster.md](expert-roster.md) | The 33 agents (31 experts, orchestrator, meta-agent) and 39 shared skills, with who uses what | Agent builders |
 | — | [decision-log.md](decision-log.md) | Decisions taken on the project, proposed and decided | All agents |
+| — | [how-to-talk-to-your-experts.md](how-to-talk-to-your-experts.md) | Example prompts: team questions via the orchestrator, single experts, full-team reviews | Everyone using the team |
 
 ## Headline findings
 

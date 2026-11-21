@@ -8,6 +8,7 @@ This project is a team of Claude Code agents that advises a consultant on openin
 | `docs/README.md`, `docs/01-…08-*.md` | Research pack: market, customers, competitors, costs, permits, staffing, marketing, risks |
 | `docs/expert-roster.md` | Every agent and skill, with which agent uses which skill |
 | `docs/decision-log.md` | Decisions taken (proposed or decided) |
+| `docs/how-to-talk-to-your-experts.md` | Example prompts for the orchestrator, single experts and full-team reviews |
 | `.claude/agents/*.md` | 33 project subagents: 31 experts, plus `orchestrator` and `meta-agent` |
 | `.claude/skills/*/SKILL.md` | 39 shared skills, preloaded into agents through their `skills:` field |
 | `.claude/skills/team-authoring/scripts/validate_team.py` | Checks that the team's files are consistent |
