@@ -18,6 +18,7 @@ Background research on opening an independent **specialty coffee shop in Miami, 
 | 6 | [06-staffing.md](06-staffing.md) | Roles, wages, labor model, hiring compliance | HR/operations, finance |
 | 7 | [07-marketing.md](07-marketing.md) | Positioning, channels, calendar, launch plan | Marketing |
 | 8 | [08-risks.md](08-risks.md) | Biggest risks, ranked, with ways to reduce them | All agents, especially risk/finance |
+| — | [expert-roster.md](expert-roster.md) | The 31 expert agents, their one-line jobs and 38 shared skills | Agent builders |
 
 ## Headline findings
 
