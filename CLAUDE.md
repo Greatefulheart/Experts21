@@ -12,6 +12,8 @@ This project is a team of Claude Code agents that advises a consultant on openin
 | `.claude/agents/*.md` | 33 project subagents: 31 experts, plus `orchestrator` and `meta-agent` |
 | `.claude/skills/*/SKILL.md` | 39 shared skills, preloaded into agents through their `skills:` field |
 | `.claude/skills/team-authoring/scripts/validate_team.py` | Checks that the team's files are consistent |
+| `exports/victor-real-estate-advisor.zip` | Victor (real estate advisor) packaged as an uploadable Claude skill |
+| `sdk/` | Node.js script that asks Victor a question through the Claude Agent SDK (see `sdk/README.md`) |
 | `.claude/settings.json` | Sets the subagent nesting depth to 2 so the orchestrator can run experts when it is itself a subagent |
 
 ## The team

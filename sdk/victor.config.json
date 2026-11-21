@@ -1,0 +1,6 @@
+{
+  "agentName": "victor",
+  "agentFile": "../.claude/agents/site-selection.md",
+  "knowledgeDir": "../exports/victor-real-estate-advisor",
+  "maxTurns": 12
+}
